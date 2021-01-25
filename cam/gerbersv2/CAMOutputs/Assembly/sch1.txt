@@ -1,0 +1,9 @@
+Partlist exported from C:/Users/rammy/Documents/EAGLE/projects/AVR Programmer/sch1.sch at 1/11/2021 10:51 AM
+
+Qty Value Device               Package           Parts     Description                                                                                                     PROD_ID   VALUE
+1         CONN_03X2POGO_PINS   2X3_POGO          J1        Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections HW-11044       
+1         LED3MM               LED_3MM           LED_BLU   LED (Generic)                                                                                                   DIO-08794      
+1   0.1uF 0.1UF-KIT-EZ-50V-20% CAP-PTH-SMALL-KIT C1_DECOUP 0.1µF ceramic capacitors                                                                                        CAP-08370 0.1uF
+1   10k   10KOHM-HORIZ-1/4W-1% AXIAL-0.3         R2_PULLUP 10kΩ resistor                                                                                                   RES-12183 10k  
+1   200   1KOHM-HORIZ-1/4W-5%  AXIAL-0.3         R1_LED    1kΩ resistor                                                                                                    RES-08380 1k   
+1   328P  ATMEGA328P_PDIP      DIP28             U1        Atmel 328P                                                                                                      IC-09136  328P 
